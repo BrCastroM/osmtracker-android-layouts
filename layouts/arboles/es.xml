@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+  <layout name="root">
+    <row>
+      <button type="voicerec" icon="voice_32x32"/>
+      <button type="picture" icon="camera_32x32"/>
+      <button type="textnote" icon="text_32x32"/>
+    </row>
+    <row>
+      <button type="tag" label="Arbol Alto" icon="arboles_icons/arbolgrande.png"/>
+      <button type="tag" label="Arbol Medio" icon="arboles_icons/arbolmedio.png"/>
+      <button type="tag" label="Arbusto" icon="arboles_icons/arbusto.png"/>
+    </row>
+  </layout>
+</layouts>
